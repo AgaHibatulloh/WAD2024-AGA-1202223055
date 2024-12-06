@@ -1,6 +1,4 @@
 @extends('layouts.main')
-@php
-
 @section('content')
 <div class="container">
     <h1>Edit Dosen</h1>
